@@ -1,3 +1,2 @@
 1. Tackling Embedding Apache Superset on React App: https://www.tetranyde.com/blog/embedding-superset
 2. Embedding Preset Dashboards: https://docs.google.com/presentation/d/1djCYYW_vZPezNmh_TGiLVXwciWmZyLZo4qfCBiRyqVw/edit#slide=id.p
-3. resources.txt contains the article which was used to create the front end and backend.
